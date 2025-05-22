@@ -1,0 +1,20 @@
+Group 1: Cluster 4
+represents our most valuable customers. 
+They purchase frequently, spend the most, and have bought recently, making them ideal for loyalty and upselling efforts. 
+
+Group 2: Cluster 2
+engaged customers with recent and fairly frequent purchases and moderate spending. 
+These are consistent buyers who can be nurtured into VIPs. 
+
+Group 3; Cluster 1
+customers who purchase occasionally but have not done so recently, indicating a group at risk of churn. 
+
+Grpup 4: Cluster 3
+consists of newer or less active customers with minimal transactions and spending. 
+This group presents an opportunity for onboarding campaigns. 
+
+Group 5: Cluster 0
+represents lapsed or inactive customers with low frequency, low spending, and long gaps since their last purchases. 
+They may be suitable for re-engagement strategies or can be deprioritized. 
+
+These segments empower data-driven decisions by enabling personalized marketing, targeted retention efforts, and smarter resource allocation. Businesses can integrate this segmentation into their CRM and marketing workflows to create impactful, customer-focused strategies using these insights.
