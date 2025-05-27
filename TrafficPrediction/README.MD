@@ -13,6 +13,7 @@ This is solving project mentioned on Educative.io site [link](https://www.educat
 ## Model Scorecard
 ### Input data
 ![Traffic volume histogram](Figure_1.png)
+
 Historical data, including date and time, weather conditions, and holidays, to predict the traffic volume on the roads.
 
 ### Different models used
