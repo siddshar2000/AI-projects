@@ -83,7 +83,7 @@ plot.update_layout(
 plot.show()
 
 # Cluster the data
-k = 3
+k = 5
 finalKMeans = KMeans(n_clusters=k, max_iter = 100, n_init = 10, random_state = 0)
 y_clusters = finalKMeans.fit_predict(x)
 
