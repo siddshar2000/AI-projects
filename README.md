@@ -4,6 +4,8 @@
 
 [Programmer ChatBot using GenAI](./ProgrammerChatBot/README.MD)
 
+[LLM Based Jobs recommendation](./LLMBasedJobRecommendation/README.MD)
+
 [Customer Segmentation](./CustomerSegmentation/README.MD)
 
 [Detect Fake News](./DetectFakeNews/README.MD)
