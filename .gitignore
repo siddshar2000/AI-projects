@@ -1,3 +1,5 @@
 .pk1
 .env
-
+# Python virtual environments
+venv/
+.venv/
